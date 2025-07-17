@@ -1,0 +1,199 @@
+body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background-color: linear-gradient(to right, #2573a7, #62a38e);
+    }
+
+    nav {
+      background-color: #333;
+      padding: 10px 20px;
+    }
+
+    nav ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      display: flex;
+    }
+
+    nav ul li {
+      margin-right: 20px;
+    }
+
+    nav ul li a {
+      text-decoration: none;
+      text-align: left;
+      position: relative;
+      left: 900px;
+      color: white;
+      font-size: 16px;
+      padding: 8px 12px;
+      transition: background-color 0.3s;
+    }
+
+    nav ul li a:hover {
+      background-color: #555;
+      border-radius: 4px;
+    }
+.body{
+    font-style: italic;
+}
+.zerodha-img h3{
+    color: blue;
+    font-style: initial;
+    left: 20px;
+    position: absolute;
+}
+.zerodha-img img{
+    height: 400px;
+    width: 400;
+    position: relative;
+    left: 250px;
+}
+.zerodha-img h1{
+    left: 450px;
+    position: absolute;
+    font-size: xx-large;
+}
+.zerodha-img p{
+    position: absolute;
+    left: 350px;
+    font-size: larger;
+    top: 500px;
+}
+.zerodha-img button{
+    background-color: rgb(33, 33, 160);
+    top: 600px;
+    position: absolute;
+    height: 50px;
+    width: 200px;
+    left: 550px;
+    color: white;
+}
+.section1 h1{
+    position: absolute;
+    top: 650px;
+    left: 100px;
+}
+.section1 p{
+    position: absolute;
+    height: 400px;
+    width: 500px;
+    top: 700px;
+    font-size: larger;
+    left: 50px;
+    text-align: justify;
+}
+.section1 img{
+    position: absolute;
+    height: 400px;
+    width: 400px;
+    top: 700px;
+    left: 800px;
+}
+.section2 h1{
+    position: absolute;
+    top: 1200px;
+    left: 50px;
+}
+.section2 p{
+    position: absolute;
+    height: 400px;
+    width: 500px;
+    top: 1250px;
+    font-size: larger;
+    left: 50px;
+    text-align: justify;
+}
+.section2 img{
+    position: absolute;
+    height:250px;
+    width: 250px;
+    top: 1200px;
+    left: 600px;
+}
+.img2{
+    position: absolute;
+    height: 250px;
+    width: 250px;
+    top: 1150px;
+    left: 800px;
+}
+.img3{
+    position: absolute;
+    height:250px;
+    width: 250px;
+    top: 1150px;
+    left: 1100px;
+}
+.section3 h1{
+    position: absolute;
+    top: 1450px;
+    left: 700px
+}
+.section3 p{
+    position: absolute;
+    height: 400px;
+    width: 500px;
+    top: 1500px;
+    font-size: larger;
+    left: 700px;
+    text-align: justify;
+}
+.section3 img{
+    position: absolute;
+    top: 1300px;
+}
+.section4 h1{
+    position: absolute;
+    top: 1700px;
+    left: 500px;
+}
+.section4 p{
+    position: absolute;
+    top: 1750px;
+    left: 400px;
+    font-size: larger;
+}
+.section4 button{
+    position: absolute;
+    top: 1850px;
+    left: 600px;
+    height: 50px;
+    width: 200px;
+    font-size: 1.2em;
+    background-color: rgb(33, 33, 160);
+    color: white;
+}
+.cta a{
+    display: inline-block;
+      padding: 15px 30px;
+      background: #0db8ec;
+      color: white;
+      text-decoration: none;
+      font-size: 1.2em;
+      border-radius: 4px;
+      transition: background 0.3s ease;
+      top: 2000px;
+      left: 500px;
+      position: absolute;
+    }
+    .cta a:hover {
+      background: #06a4d4;
+    }
+    footer {
+        background: #070000;
+        color: white;
+        padding: 20px;
+        text-align: center;
+        font-size: 0.9em;
+        top: 1550px;
+        position: relative;
+
+      }
+      .section5 img{
+        top: 1500px;
+        position: relative;
+        background-color: rgba(5, 15, 15, 0.849);
+        padding-right: 50px 50px;
+      }
